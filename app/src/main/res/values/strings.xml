@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tbane</string>
+    <string name="search">SØK</string>
+    <string name="search_hint">Hvor skal du?</string>
+
+    <string name="no_such_station">No such station.</string>
+
+    <string name="zero">TØYEN\nReiser med klokka:\nVogn 1 fra front om Sognsvann, ellers vogn 2 fra front.\nReiser mot klokka:\nVogn 5 fra front.\n</string>
+    <string name="one">CARL BERNER\nReiser med klokken:\nVogn 4 fra front.\nReiser mot klokken:\nVogn 5 fra front.\n</string>
+    <string name="two">SINSEN\nReiser med klokken:\nVogn 1 fra front.\nReiser mot klokken:\nVogn 6 fra front.\n</string>
+    <string name="three">STORO\nReiser med klokken:\nVogn 6 fra front.\nReiser mot klokken:\nVogn 1 fra front.\n</string>
+    <string name="four">JERNBANETORGET\nReiser med klokken:\nVogn 1 fra front for bussterminal. 3 eller 4 for torg/Oslo City.\n Reiser mot klokken:\nVogn 6 fra front for bussterminal. 3/4for torg/Oslo City.\n</string>
+    <string name="five">NATIONALTHEATRET\nReiser med klokken:\nVogn 6 fra front.\nReiser mot klokken:\nVogn 1 fra front.\n</string>
+    <string name="six">STORTINGET\nVogn 3 eller 4 fra front.\n</string>
+    <string name="seven">MAJORSTUEN\nReiser med klokken:\nVogn 6 fra front(3 eller 4 for undergang/neuf).\nReiser mot klokken:\nVogn 1 fra front(3 eller 4 for kino).\n</string>
+    <string name="eight">BLINDERN\nReiser med klokken:\nVogn 2 fra front.\nReiser mot klokken:\nVogn 5 fra front.\n</string>
+    <string name="nine">ULLEVÅL\nReiser med klokken:\nVogn 1 eller 2 fra front.\nReiser mot klokken:\nVogn 1 eller 3 fra front.\n</string>
+    <string name="ten">NYDALEN\nReiser med klokken:\nVogn 6 fra front for senter.\nReiser mot klokken:\nVogn 1 fra front for senter.\n</string>
+    <string name="eleven">GRØNLAND\nVogn 3 eller 4 fra front.\n</string>
+    <string name="r_string_search">R.string.search</string>
+
+</resources>
+
